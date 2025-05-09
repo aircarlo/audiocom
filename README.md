@@ -16,7 +16,7 @@
 ## Getting Started
 
 1. **Configuration**:
-   - Place the `audiocom_095.exe` and the config file`settings_095.txt` in the same directory.
+   - Place the `audiocom_095.exe` and the config file `settings_095.txt` in the same directory.
    - Edit the config file to specify:
      - Pre-Shared Key (a unique number to allow authentication at startup),
      - Remote IP address,
