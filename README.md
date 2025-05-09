@@ -37,7 +37,7 @@
 
 If no audio is received or sent:
   - Verify that the PCs are in the same LAN subnet,
-  - Check UDP packet transmission using tools like **Wireshark**,
+  - Check UDP packet transmission using tools like [Wireshark](https://www.wireshark.org/),
   - Confirm correct IP/port settings on both sides,
   - Ensure firewall or antivirus is not blocking the application,
   - Test network connectivity (e.g., via `ping`).
